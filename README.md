@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HugoLau23
 - 👀 I’m interested in coding but i am new at this
-- 🌱 I’m currently learning python for my first language 
+- 🌱 I’m currently still learning 
 - 📫 How to reach me :hugolau9145@gmail.com
 
 <!---
