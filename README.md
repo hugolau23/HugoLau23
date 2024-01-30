@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HugoLau23
 - 👀 I’m interested in coding but i am new at this
 - 🌱 I’m currently still learning 
-- 📫 How to reach me :hugolau9145@gmail.com
+- 📫 How to reach me : cheukyin175@gmail.com
 
 <!---
 HugoLau23/HugoLau23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
