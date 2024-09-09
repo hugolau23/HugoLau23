@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HugoLau23
-- 👀 I’m interested in coding but i am new at this
-- 🌱 I’m currently still learning 
+- 🌱 City University of Hong Kong
 - 📫 How to reach me : cheukyin175@gmail.com
 
 <!---
